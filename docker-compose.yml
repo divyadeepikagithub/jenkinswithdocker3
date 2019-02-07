@@ -1,0 +1,4 @@
+sparkwar:
+  image: swargam402/sparkwar:latest
+  ports:
+    - "8086:8080"
