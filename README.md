@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 # sparkjava-war-example
 Build war with maven and sparkjava framework
-
+hello
 Steps:
 
 1. Download a fresh [Tomcat 8 distribution](https://tomcat.apache.org/download-80.cgi)
@@ -10,3 +11,6 @@ Steps:
 5. Start Tomcat by running `bin\startup.bat` (or `bin\startaup.sh` for Linux)
 5. Tomcat will automatically deploy the war
 6. Open [http://localhost:8080/sparkjava-hello-world-1.0/hello](http://localhost:8080/sparkjava-hello-world-1.0/hello) in your browser
+=======
+# jenkinswithdocker3
+>>>>>>> 9877c7eb3f32b2afecdf8703e2d4d9228b5ea1c5
